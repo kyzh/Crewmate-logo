@@ -11,8 +11,14 @@ Version
 
 Copyright
 =========
-This work is under Creative Commons Attribution-ShareAlike 3.0  
-The author is [edidiro](http://fiverr.com/edidiro)
+Logo
+----
+This work is under [Creative Commons Attribution-ShareAlike 3.0] (http://creativecommons.org/licenses/by-sa/3.0/)  
+The author is [Edidiro](http://fiverr.com/edidiro)  
+Font
+----
+The font is under [SIL] (http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL&_sc=1) and [LGPL] (https://www.gnu.org/licenses/lgpl.html)  
+The author is [John Stracke] (http://www.thibault.org/fonts/isabella/)  
 
 [logo-v1]: https://raw.github.com/kyzh/Crewmate-logo/master/v1/crewmate2.jpg
 [logo-v2]: https://raw.github.com/kyzh/Crewmate-logo/master/v2/crewmate.jpg
